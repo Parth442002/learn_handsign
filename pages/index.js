@@ -230,7 +230,7 @@ export default function Home() {
             color="white"
             textAlign="center"
           >
-            🧙‍♀️ Loading the Magic 🧙‍♂️
+            Loading the model
           </Heading>
 
           <Box id="webcam-container">
